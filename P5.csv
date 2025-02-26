@@ -1,0 +1,51 @@
+Name,EmployeeID,Salary ($),DOB,JoinDate,Year of Service,Weight,Address,Email
+Aishwarya Menon,0194-826-537,90000,12/15/1984,5/24/2009,15,68.04 kg,"123 Elm St Apt 5, New York, NY 10001",aishwarya.menon@gmail.com
+"Al-Farsi, Ahmed",426-930-0187,800000,5/21/1980,5/24/2015,9,68.5 kg,"456 Maple Ave #101, Los Angeles, CA 90210",ahmed.alfarsi@yahoo.com
+"Al-Farsi, Ahmed",426 930 0187,800000,5/21/1980,5/24/2015,9,68.5 kg,"456 Maple Ave APT 101, Los Angeles, CA 90210",ahmed.alfarsi@yahoo.com
+"Al-Farsi, Ahmed M.",0654-890-127,500000,3/10/1978,6/2/2010,14,75.2 kg,"987 Pine Blvd, San Francisco, CA 94102",ahmed.m.alfarsi@gmail.com
+Alice B. Brown,0632 750 194,950000,8/12/1983,10/15/2018,6,90.72 kg,"654 Birch Rd, Apt 305, Boston, MA 02108",alice.brown@gmail.com
+Alice K Brown,0429-581-0763,780000,2/10/1983,7/1/2015,9,90.3 kg,"321 Cedar Dr, Seattle, WA 98101",alice.88-brown@yahoo.com
+"Chen, Mei",00482-679-013,25000,5/15/1990,8/23/2005,19,72.57 kg,"111 Willow Cir #7, Houston, TX 77002",mei.chen@yahoo.com
+"Chen, Mei",0983-567-0124,33000,9/18/1977,12/22/2014,10,72.6 kg,"222 Spruce Ct, Atlanta, GA 30301",mei.chen@yahoo.com
+"Choudhary-Smith, Meera",0502-349-0186,42000,8/16/1971,12/14/2012,s,65.77 kg,"333 Fir Pl, Miami, FL 33101",meera.choudhary-smith@gmail.com
+"Chris Davis, Esq.",105-297-384,15000,7/19/1972,9/28/2009,15,65.7 kg,"444 Poplar Ln, Unit 12, Dallas, TX 75201",chris.davis.esq@gmail.com
+"Da Silva, Maria",0614 208 357,250000,6/15/1996,8/16/2006,18,83.91 kg,"555 Sycamore Ave Apt 201, Washington, DC 20001",maria.da.silva@gmail.com
+"Desai, Professor Arjun",0736-150-824,850000,11/30/1980,9/21/2016,8,84.0 kg,"666 Ash St, Phoniex, AZ 85001",arjun.desai@gmail.com
+Dr. Robert Johnson,0532 941 687,35000,3/8/1999,10/9/2018,6,77.11 kg,"777 Redwood Rd, Denver, CO 80202",dr.robert.johnson@gmail.com
+"Garcia, Javier",0952-864-301,120000,9/22/1986,3/11/2013,11,77.1 kg,"888 Magnolia Blvd, Philadelpia, PA 19101",javier.garcia@yahoo.com
+"Garcia, Javier",0314-728-0569,95000,9/20/1968,6/9/2018,6,70.31 kg,"999 Cedar St, Detroit, MI 48201",javier.garcia202@yahoo.com
+Hui Yang,0349-761-802,120000,11/18/1986,2/12/2016,9,70.2 kg,"101 Oakwood Dr #305, Las Vegas, NV 89101",hui.yang@gmail.com
+"Iyer, Esq., Siddharth",0419 587 306,175000,3/27/1991,2/26/2019,6,88.45 kg,"202 Birch Ave, San Antonio, TX 78201",siddharth.iyer.esq@gmail.com
+Jamal Williams,0238-617-495,650000,3/9/1970,12/7/2013,11,88.5 kg,"303 Maple Rd, Orlando, FL 32801",jamal.williams@yahoo.com
+Jane Smith,0850 694 271,19000,1/7/1994,7/19/2019,5,63.5 kg,"404 Willow Ln #8, San Diego, CA 92101",jane.smith@gmail.com
+Jane Smith,850694271,19000,1/7/1994,7/19/2019,5,63.5 kg,"404 Willow Ln #8, San Diego, CA 92101",jane.smith@gmail.com
+John Doe,0580-796-321,200000,9/22/1996,8/18/2010,14,79.38 kg,"606 Cedar Pl, Apt 502, New Orleans, LA 70112",john.doe@yahoo.com
+"Kapoor, PhD, Ananya",703-182-965,85000,6/30/1975,11/8/2014,10,79.8 kg,"707 Elm Ct #3, St. Louis, MO 63101",ananya.kapoor.phd@gmail.com
+"Kapoor, PhD, Ananya",0796 351 0482,29000,6/9/1998,3/19/2019,5,68.04 kg,"808 Redwood Dr, Indianapolis, IN 46201",ananya.kapoor.phd@gmail.com
+Li Ying,0670-123-598,60000,6/14/1965,7/14/2006,18,68.1 kg,"909 Oakwood Blvd, Minneapolis, MN 55401",li.ying@yahoo.com
+Mary Ann White,0569 318 702,22000,8/7/1998,8/3/2011,13,86.18 kg,"210 Pine St #4, Baltimore, MD 21201",mary.ann.white@gmail.com
+Meera Choudhary-Smith,0287-604-159,45000,1/12/1979,4/17/2018,6,86.4 kg,"321 Spruce Ln, Tampa, FL 33601",meera.choudhary-smith@gmail.com
+Mr. William Turner Jr.,0825 403 0716,80000,7/5/1976,6/5/2015,9,74.84 kg,"432 Birch Rd Apt 15B, Cleveland, OH 44101",mr.william.turner.jr@gmail.com
+"Nkosi, Fatima",0902-345-618,40000,7/12/1982,3/3/2014,10,74.9 kg,"543 Cedar Ave, Pittsburgh, PA 15201",fatima.nkosi@gmail.com
+"Nkosi, Fatima S.",0874 951 820,18000,6/14/1989,9/11/2016,8,92.99 kg,"654 Elm Cir, Milwaukeee, WI 53201",fatima.s.nkosi@gmail.com
+"Patel, Dr. Priya",618372549,1000000,10/10/1973,4/17/2019,5,93.0 kg,"765 Sycamore Pl, Cincinnati, OH 45201",dr.priya.patel@yahoo.com
+Professor Michael Williams,156489237,500000,2/28/1974,7/12/2005,19,61.23 kg,"876 Maple Blvd, Portland, OR 97201",professor.michael.williams@gmail.com
+Professor Michael Williams,0873 216 0905,50000,7/31/1995,3/25/2009,15,61.3 kg,"987 Willow Rd, Kansas City, MO 64101",professor.michael.williams@gmail.com
+"Reddy, Kavita",874215603,70000,9/10/1987,1/5/2017,8,95.25 kg,"108 Pine Dr #205, Charlotte, NC 28201",kavita.reddy@gmail.com
+"Rodriguez, Diego",0467-215-0983,28000,2/17/1988,10/15/2011,13,95.7 kg,"219 Redwood Ln, Salt Lake City, UT 84101",diego.rodriguez@gmail.com
+"Rodriguez, Diego",0287-460-931,38000,3/27/1985,9/17/2010,14,58.97 kg,"320 Oak Ave, Raleigh, NC 27601",diego.rodriguez@gmail.com
+"Rodriguez, Diego J.",0456 790 321,600000,11/18/1988,7/19/2019,5,59.0 kg,"431 Cedar Blvd Apt 7, Nashville, TN 37201",diego.j.rodriguez@yahoo.com
+Samantha Taylor-Smith,0743 856 291,300000,9/30/1993,12/9/2016,8,99.79 kg,"542 Birch St, Sacramento, CA 95801",samantha.taylor-smith@gmail.com
+"Sara L. Miller, PhD",891 567 204,35000,8/22/1985,11/15/2008,16,99.4 kg,"653 Magnolia Rd, Apt 101, Austin, TX 78701",sara.l.miller.phd@gmail.com
+"Sharma, Rahul",0761 502 834,55000,1/20/1997,2/28/2008,17,56.7 kg,"764 Sycamore Cir, Phladelphia, PA 19101",rahul.sharma@yahoo.com
+"Singh, Vikram",539 687 214,90000,3/15/1992,5/10/2012,12,56.8 kg,"875 Pine Pl, San Diego, CA 92101",vikram.singh@gmail.com
+"Takahashi, Akira",198-543-706,30000,4/3/1995,3/7/2012,12,102.06 kg,"986 Spruce Ln, Jacksonvill, FL 32201",akira.takahashi@gmail.com
+"Takahashi, Akira",0143 297 865,42000,5/21/2071,10/30/2014,10,102.1 kg,"109 Elm Dr #302, Charleston, SC 29401",akira.takahashi@gmail.com
+Tao Xu,0309-678-0124,750000,11/24/1981,1/12/2017,8,54.43 kg,"210 Maple Rd, Memphs, TN 38101",tao.xu@yahoo.com
+"Verma, Mr. Rajiv",215 908 347,45000,2/25/1990,4/30/2007,17,54.5 kg,"321 Oakwood Ave, Oklahma City, OK 73101",mr.rajiv.verma@gmail.com
+Wei Chen,0876 234 501,75000,12/7/1992,9/21/2013,11,104.33 kg,"432 Birch Pl, Apt 6D, Richmond, VA 23201",wei.chen@yahoo.com
+William Turner Jr.,0961 874 0250,850000,12/20/1982,8/2/2006,18,104.8 kg,"543 Sycamore Blvd, Newark, NJ 07001",william.turner.jr@gmail.com
+"Williams, Jamal",0297-431-0568,55000,4/5/1978,4/13/2008,16,52.16 kg,"654 Willow Cir #9, Hartford, CT 06101",jamal.williams@yahoo.com
+"Williams, Jamal",0845 603 0219,14000,2/14/1989,4/8/2005,19,52.2 kg,"765 Redwood Dr, Bufflo, NY 14201",jamal.williams@yahoo.com
+"Xavier, Sara",0406-892-0715,68000,10/23/1974,12/25/2017,7,106.59 kg,"876 Cedar Ln, Rochestor, NY 14601",sara.xavier@gmail.com
+Ying Zhao,0172-946-0580,600000,5/28/1979,11/21/2011,13,107.5 kg,"987 Elm Ave Apt 205, Virginia Beach, VA 23401",ying.zhao@yahoo.com
