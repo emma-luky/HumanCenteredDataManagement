@@ -1,0 +1,5 @@
+1. The dates for date of birth and join date are formatted differently.
+2. Similar problem for column salary. Some salaries are formatted as 90k vs 90000.
+3. Some emails have random spaces. For example, aishwarya.menon@g mail.com should be aishwarya.menon@gmail.com
+4. Some weights are in kg and other weights are in lbs.
+5. Some rows within years of service are missing.
