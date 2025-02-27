@@ -1,5 +1,10 @@
 1. The dates for date of birth and join date are formatted differently.
-2. Similar problem for column salary. Some salaries are formatted as 90k vs 90000.
+  a. I plan to take each row and format each date the same way.
+2. There is a similar problem for the salary column. Some salaries are formatted as 90k vs 90000.
+  a. I plan to go through the rows within this column, and if 'k' is detected, it will be replaced with three zeros (000) to ensure each row is formatted the same.
 3. Some emails have random spaces. For example, aishwarya.menon@g mail.com should be aishwarya.menon@gmail.com
-4. Some weights are in kg and other weights are in lbs.
+  a. I plan to remove all the white spaces
+4. Some weights are in kg, and other weights are in lbs.
+  a. I plan to convert lbs/pounds to kgs.
 5. Some rows within years of service are missing.
+  a. I will take the join date and the current date and discover the years in between and use that number as the years of service that have missing videos.
