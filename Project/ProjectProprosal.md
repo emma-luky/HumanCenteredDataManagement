@@ -7,10 +7,10 @@ By: Emma Luk
 For this project, I’ll be implementing HiChart — a system designed to enhance data visualizations by linking text descriptions to specific chart elements. When a user highlights a portion of text, the system automatically analyzes a chart image (like a PNG or JPEG) and visually highlights the parts of the chart that are most relevant to that text. I’ll focus on building a clean, fully functional interface and aim to improve the backend using techniques like reverse-engineering visualizations, data tuning, and chart highlighting. This project has a strong human-centered aspect, as it helps users quickly interpret complex data visualizations, making it especially useful for researchers, journalists, and data analysts.
 
 ## Why did I pick this project?
-write here
+I relate to the pain points that the paper wrote out. When reading a complex paper, there is often such an information dump that I am overwhelmed, and by the time I get to the figure/chart, I almost don't know what part the author is trying ot point to. Additionally, I've encountered certain charts that are more complex and have not seen before, and I feel that this software would be great to help with this problem.
 
 ## Plans for implementation
-write here
+I plan to create a front-end interface that allows users to input graphs/charts and then analyze the photo using the paper's backend implementation.
 
 ## Timeline
 | WEEK          | DESCRIPTION                     |
