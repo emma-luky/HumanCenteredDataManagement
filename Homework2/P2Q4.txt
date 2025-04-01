@@ -1,0 +1,1 @@
+The most popular genre in the database is the "Short" genre. It leads by a good amount, having 52,528 count more than "Drama", the second most popular.
