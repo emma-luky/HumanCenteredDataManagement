@@ -1,0 +1,9 @@
+Drag City to the Columns shelf.
+
+Drag Population to the Rows shelf.
+
+Filter for North American Countries by taking the country codes and selecting only countries from North America, which I looked up online.
+
+Filter cities with population >= 500,000.
+
+Dragged District to the Color option in the Marks card to color by district.
