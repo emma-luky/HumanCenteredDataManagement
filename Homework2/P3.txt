@@ -1,0 +1,28 @@
+\l
+\dt
+select * from actor limit 1;
+select count(id) from actor;
+select count(distinct fname) from actor;
+select count(distinct lname) from actor;
+select count(distinct gender) from actor;
+select * from casts limit 1;
+select * from directors limit 1;
+select count(id) from directors;
+select count(distinct fname) from directors;
+select count(distinct lname) from directors;
+select * from genre limit 1;
+select count(distinct genre) from genre;
+select distinct genre from genre;
+select * from movie limit 1;
+select min(year) from movie;
+select max(year) from movie;
+select * from movie_directors limit 1;
+select gender, count(*) from actor group by gender;
+select fname, count(*) from actor group by fname order by count(*) desc limit 10;
+select lname, count(*) from actor group by lname order by count(*) desc limit 10;
+select fname, count(*) from actor group by fname order by count(*) asc limit 10;
+select lname, count(*) from actor group by lname order by count(*) asc limit 10;
+select fname, count(*) from driectors group by fname order by count(*) desc limit 10;
+select lname, count(*) from driectors group by lname order by count(*) desc limit 10;
+select fname, count(*) from driectors group by fname order by count(*) asc limit 10;
+select lname, count(*) from driectors group by lname order by count(*) asc limit 10;
