@@ -1,0 +1,9 @@
+Dragged longitude to the columns.
+
+Dragged latitude to the rows.
+
+I chose type Density.
+
+Put Names under the detail type in the marks table. I had to add a geographic role to Name, so that Tableau would now that Name is the same as a City.
+
+Put sum of the population under the colors type in the marks table.
