@@ -1,0 +1,8 @@
+I see peaks around 2005 and 2009, which indicates that there were significant increases in the number of movies added to the IMDb database during those years.
+These peaks could be explained by:
+
+* Actual increases in film production globally during those periods
+* Changes in IMDb's data collection methods or coverage
+* Increased digitization of film records from those periods
+* Industry booms in film production that occurred during those years
+* The rise of independent and digital filmmaking making it easier to produce and distribute films
