@@ -76,6 +76,8 @@ export const styles = StyleSheet.create({
       borderRadius: 8,
       padding: 16,
       marginBottom: 16,
+      flex: 1,
+      minWidth: 200,
     },
     tableTitle: {
       fontSize: 18,
@@ -113,4 +115,30 @@ export const styles = StyleSheet.create({
     highlightedRow: {
         backgroundColor: '#f98b69', // soft yellow
     },
+    graphContainer: {
+        flex: 1.2,
+        alignItems: 'center',
+        minWidth: 250,
+    },
+    graphImage: {
+        width: '100%',
+        height: 300,
+        resizeMode: 'contain',
+        borderRadius: 10,
+        marginTop: 10,
+    },
+    graphTitle: {
+        fontSize: 18,
+        fontWeight: '600',
+    },
+    sideBySideContainer: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        flexWrap: 'wrap',
+        paddingHorizontal: 10,
+        marginTop: 20,
+        gap: 10,
+    },
+    
   });

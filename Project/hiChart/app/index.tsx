@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import { View, Text, ScrollView, TouchableWithoutFeedback, Button } from 'react-native';
+import { View, Text, ScrollView, TouchableWithoutFeedback, Button, Image } from 'react-native';
 import { styles } from '../constants/Styles';
 
 const SampleData = {
@@ -103,6 +103,23 @@ export default function index() {
         );
     };
 
+    const getGraphImage = () => {
+        const text = selectedText.toLowerCase();
+        if (text.includes("q1") || text.includes("1,200") || text.includes("200")) {
+            return require("../assets/images/q1.png");
+        }
+        if (text.includes("q2") || text.includes("1,800") || text.includes("350")) {
+            return require("../assets/images/q2.png");
+        }
+        if (text.includes("q3") || text.includes("1,400") || text.includes("280")) {
+            return require("../assets/images/q3.png");
+        }
+        if (text.includes("q4") || text.includes("2,200") || text.includes("580")) {
+            return require("../assets/images/q4.png");
+        }
+        return require("../assets/images/regular.png");
+    };    
+
     return (
         <ScrollView style={styles.container}>
             <View style={styles.instructionsContainer}>
@@ -133,8 +150,15 @@ export default function index() {
             <View style={{ margin: 10 }}>
                 <Button title="Reset" onPress={handleReset} disabled={selectedText.length === 0} />
             </View>
-
-            {renderDataTable()}
+            <View style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-between'}}>
+                <View style={styles.graphContainer}>
+                    <Image
+                        source={getGraphImage()}
+                        style={styles.graphImage}
+                    />
+                </View>
+                {renderDataTable()}
+            </View>
 
             <View style={styles.footer}>
                 <Text style={styles.footerText}>
